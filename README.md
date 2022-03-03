@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KayBeeC
 - 👀 I’m interested in Gaming, VR, Coding, Graphic Animation, Modelling and Effects, Badminton, Piano, Tinkering, Cooking, Crypto Mining / Trading
 - 🌱 I’m currently learning Coding, Graphic Animation, Modelling and Effects
-- 💞️ I’m looking to collaborate on making Games, and willing to learn the steps to becoming a Full Stack game developer.
+- 💞️ I’m looking to collaborate on games development, and willing to learn the steps to becoming a Full Stack game developer & animation.
 - 📫 How to reach me https://my.linkedin.com/in/kai-bin-cheong-024a5a231
 
 <!---
